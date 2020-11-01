@@ -1,0 +1,120 @@
+
+
+.iconchange {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.orangecolorback {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 100%;
+    
+}
+.handicon {
+    margin-top: -100px;
+    margin-bottom: 0px;
+    position: absolute;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center;
+    padding: 30%;
+    /* margin-top: 0%; */
+ 
+}
+
+.htext {
+    position: absolute;
+    left: 10px;
+    line-height: 5px;
+    top: 270px;
+}
+
+.btn-image {
+    background-image: url('pictures/button_main.png') !important;
+    background-size: cover;
+    background-position: center center;
+    line-height: 13px;     
+    border: none;
+      }
+            
+.colortext {
+    color: white;
+}
+.colorsm {
+    color: black;
+    font-size: 8px;
+    
+}
+
+.btn-style {
+    /* background-image: url('pictures/button_secndry.png') !important; */
+    /* display: inline-block;
+    display: flex; */
+    text-align: center;
+    margin-left: 10px;
+    top: 30%;
+    background-size: cover;
+    color: black; 
+    
+}
+
+.link {
+    color:rgb(255, 174, 0);
+}
+
+
+.btnicon1 {
+    background-image: url('pictures/icon\ _mobile.png') !important;
+    background-origin: content-box;
+    background-size: 30px;
+    background-position: left;
+    background-repeat: no-repeat; 
+    
+
+}
+
+.btnicon2 {
+    background-image: url('pictures/icon\ _fb.png') !important;
+    background-origin: content-box;
+    background-size: 30px;
+    background-position: left;
+    background-repeat: no-repeat;  
+}
+
+.btnicon3 {
+    background-image: url('pictures/icon\ _google.png') !important;
+    background-origin: content-box;
+    background-size: 30px;
+    background-position: left;
+    background-repeat: no-repeat;  
+}
+
+.btnicon4 {
+    background-image: url('pictures/icon\ _mail.png') !important;
+    background-origin: content-box;
+    background-size: 30px;
+    background-position: left;
+    background-repeat: no-repeat;  
+}
+
+.txt {
+    text-align: left;
+    padding-left: 50px;
+    margin-bottom: auto;
+}
+
+.login {
+    padding-right: 600px;
+    padding-top: 150px;
+}
+
+#partitioned {
+    padding-left: 15px;
+    letter-spacing: 42px;
+  }
